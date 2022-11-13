@@ -1,4 +1,4 @@
-Hi, I’m Elliot Skinner (@flamofrog)
+Hi, I’m Elliot Skinner (@ElliotSknr)
 
 I am an Android Developer currently based in the UK.
 
